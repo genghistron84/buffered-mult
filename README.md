@@ -1,6 +1,6 @@
 # Buffered Multiple
 
 
-Takes one inputs and provides 4 buffered outputs.
+Minimalist footprint buffered multiple PCB - takes one input and provides 4 buffered outputs.
 
 ![schematic](schematic.png)
